@@ -3,7 +3,7 @@
     "description": "this is test",
     "require": {
         "php": ">=7.0"
-    }
+    },
 	"autoload": {
         "psr-4": {
             "Restest\\Push\\": "src/"
